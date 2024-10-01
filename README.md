@@ -51,7 +51,7 @@ or use the shortcut from the desktop:
 The GUI should start as follow:
 ![GUI](img/AntCam_UI.PNG)
 
-If you have more questions, please ask Hao Wu [fullerene12](https://github.com/fullrene12) to get a tutorial of the software.
+If you have more questions, please ask Hao Wu [fullerene12](https://github.com/fullerene12) to get a tutorial of the software.
 
 ## Analysis Code
 
